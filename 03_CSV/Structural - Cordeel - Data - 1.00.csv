@@ -1,0 +1,9 @@
+﻿11,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,YES,*,*,*,*,03_Sterkteklasse,*?*,03_Milieuklasse,*?*,*,*
+13.2,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,YES,*,*,*,*,03_Sterkteklasse,*?*,03_Milieuklasse,*?*,*,*
+16,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,YES,*,*,*,*,03_Sterkteklasse,*?*,03_Milieuklasse,*?*,*,*
+17,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,YES,*,*,*,*,03_Sterkteklasse,*?*,03_Milieuklasse,*?*,*,*
+21.2,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,YES,01_Uitwendig,YES,01_Brandwerendheid,ONEOFF(FireRating),03_Sterkteklasse,*?*,03_Milieuklasse,*?*,*,*
+22.2,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,YES,01_Uitwendig,NO,01_Brandwerendheid,ONEOFF(FireRating),03_Sterkteklasse,*?*,03_Milieuklasse,*?*,*,*
+23.2,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,YES,01_Uitwendig,NO,01_Brandwerendheid,ONEOFF(FireRating),03_Sterkteklasse,*?*,03_Milieuklasse,*?*,*,*
+27.2,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,YES,01_Uitwendig,YES,01_Brandwerendheid,ONEOFF(FireRating),03_Sterkteklasse,*?*,03_Milieuklasse,*?*,*,*
+28.1,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,YES,01_Uitwendig,YES?NO,*,*,*,*,*,*,03_Staalkwaliteit,*?*
