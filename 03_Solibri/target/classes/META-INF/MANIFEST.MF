@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: tim.lugtenburg
+Build-Jdk: 17.0.5
+Specification-Title: Cordeel_Solibri_Rules_0.5
+Specification-Version: 1.0
+Created-By: Maven Integration for Eclipse
+SMC-Rule: 1.0
+
