@@ -1,0 +1,18 @@
+﻿21.1,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,NO,01_Uitwendig,YES,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+22.1,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,NO,01_Uitwendig,NO,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+23.1,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,NO,01_Uitwendig,YES?NO,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+24.1,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,*,*,*,*,*,*,*,*,*,*,02_Aantrede,*?*,02_Optrede,*?*,*,*,*,*,*,*,*,*
+24.2,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,*,*,*,*,*,*,*,*,*,*,02_Aantrede,*?*,02_Optrede,*?*,*,*,*,*,*,*,*,*
+27.1,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,NO,01_Uitwendig,YES,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+31,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,*,*,01_Uitwendig,YES,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,00_Merk,*?*,00_Merk Type,*?*,04_Kleur,*?*,00_Omschrijving,*?*
+32,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,*,*,01_Uitwendig,NO,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,00_Merk,*?*,00_Merk Type,*?*,04_Kleur,*?*,00_Omschrijving,*?*
+34,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,*,*,01_Uitwendig,YES?NO,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+37,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,*,*,01_Uitwendig,YES,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+41.1,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,NO,01_Uitwendig,YES,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+42.1,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,NO,01_Uitwendig,NO,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+43,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,NO,01_Uitwendig,NO,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+44,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,NO,01_Uitwendig,YES?NO,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+45,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,NO,01_Uitwendig,YES?NO,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+47.1,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,01_Dragend,NO,01_Uitwendig,YES,01_Brandwerendheid,ONEOFF(FireRating),05_Luchtgeluidisolatie,ONEOFF(SoundResistance),05_RC-waarde,ONEOFF(Insulation),*,*,*,*,*,*,*,*,*,*,*,*
+7,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
+8,00_Bouwlaag,ONEOFF(Levels),04_Materiaal,*?*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*,*
